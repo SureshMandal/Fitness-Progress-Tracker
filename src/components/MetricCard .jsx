@@ -22,7 +22,7 @@ import React from "react";
      backgroundSize: "cover",
      backgroundPosition: "center",
      position: "relative",
-     color: "#fff", git init
+     color: "#fff",
    };
  
    const overlayStyle = {
